@@ -1,0 +1,45 @@
+main{
+    min-height: 100vh;
+}
+
+.form-group label{
+    font-size: 20px;
+}
+.btn{
+    margin-top: 20px;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    padding: 5px 6px;
+    border-radius: 8px;
+}
+a:hover{
+    transition: 0.8s ease-in-out;
+    opacity: 0.5;
+}
+
+.card{
+    width: 26rem;
+}
+
+.footer{
+    bottom: 0;
+    
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar-nav{
+    margin-left: auto;
+    gap: 25px;
+}
+
+.nav-link{
+    padding: 10px 12px;
+}
